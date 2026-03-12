@@ -100,10 +100,6 @@ Dalam masyarakat modern, sains telah memberikan kemampuan besar kepada manusia u
 
 Oleh karena itu, agama tetap memiliki peran penting sebagai **sumber nilai moral dan etika** yang dapat membimbing manusia dalam menggunakan pengetahuan ilmiah secara bertanggung jawab.
 
----
-
-Kesimpulan utama  
-Konflik antara sains dan agama tidak sepenuhnya bersifat permanen. Banyak konflik muncul karena perbedaan metode dan interpretasi. Dalam praktiknya, sains dan agama dapat saling melengkapi: sains menjelaskan **mekanisme dunia**, sedangkan agama memberikan **makna dan nilai moral dalam kehidupan manusia**.
 
 **sesi tanya jawab**
 
