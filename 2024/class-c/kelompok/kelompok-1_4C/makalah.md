@@ -85,14 +85,35 @@
 #### c. Parmenides yang menentang gagasan perubahan dan menyatakan bahwa realitas bersifat tetap. 
 #### 2. *Periode Sokrates, Plato, dan Aristoteles*.
 #### Periode ini dikenal sebagai puncak filsafat Yunani dengan tiga filsuf utamanya : 
-#### a. Sokrates (469-399 SM) : mengembangkan metode berpikir kritis yang dikenal sebagai *Metode Dialektika*, yaitu bertanya dan berdiskusi untuk mencari kebenaran.
-#### b. Plato (427-347 SM) : murid Socrates yang mendirikan akademi Athena dan mengembangkan teori *Dunia Ide* yang menyatakan bahwa dunia nyata hanyalah bayangan dari dunia yang lebih sempurna.
-#### c. Aristoteles (384-322 SM) : murid Plato yang menolak teori *Dunia Ide* dan lebih fokus pada pengamatan empiris serta mengembangkan logika formal yang menjadi dasar ilmu logika modern. 
+#### a. Sokrates (469-399 SM) : mengembangkan metode berpikir kritis yang dikenal sebagai Metode Dialektika, yaitu bertanya dan berdiskusi untuk mencari kebenaran.
+#### b. Plato (427-347 SM) : murid Socrates yang mendirikan akademi Athena dan mengembangkan teori Dunia Ide yang menyatakan bahwa dunia nyata hanyalah bayangan dari dunia yang lebih sempurna.
+#### c. Aristoteles (384-322 SM) : murid Plato yang menolak teori Dunia Ide dan lebih fokus pada pengamatan empiris serta mengembangkan logika formal yang menjadi dasar ilmu logika modern. 
 #### 3. *Periode Helenistik dan pengaruhnya*
 #### Setelah kematian Aristoteles, filsafat Yunani berkembang dalam berbagai aliran yang lebih praktis, seperti : 
 #### a. Stoikisme (Zeno dari Citium) : mengajarkan ketenangan dalam mengahadapi kehidupan.
 #### b. Epicurenism (Epikuros) : mengajarkan bahwa kebahagiaan sejati adalah hidup sederhana dan menghindari rasa sakit. 
 #### c. Skeptisisme : meyakini bahwa manusia tidak bisa mencapai kebenaran absolut. 
+
+#### B. *Logika dalam filsafat Yunani*.
+#### logika adalah cabang filsafat yang berkembang pesat di Yunani kuno, terutama oleh Aristoteles. Beberapa konsep logika yang telah dikembangkan adalah : 
+#### a. Silogisme : metode penalaran yang menyusun dua premis untuk mendapatkan kesimpulan.
+#### b. Hukum Identitas (A adalah A) : suatu benda atau konsep memiliki identitas yang tetap.
+#### c. Hukum Kontradiksi : suatu pernyataan tidak bisa benar dan salah sekaligus dalam satu waktu.
+
+#### C. *Matematika dan Geometri*.
+#### a. Pythagoras menemukan Teorema Pythagoras, yang masih digunakan dalam matematika hingga saat ini.
+#### b. Euclid menulis The Elements, buku yang menjadi dasar ilmu geometri. 
+#### c. Archimedes menemukan prinsip daya apung (Hukum Archimedes) dan mengembangkan konsep kalkulus awal.
+
+#### D. *Astronomi*.
+#### a. Aristarchus dari sarmos mengusulkan teori Heliosentris, yang menyatakan bahwa matahari adalah pusat tata surya.
+#### b. Hipparchus menciptakan katalog bintang dan menemukan presisi ekuinoks.
+#### c. Eratosthenes berhasil mengukur keliling bumi dengan akurasi tinggi menggunakan bayangan matahari.
+
+#### E. *Kedokteran*.
+#### Hippocrates, dikenal sebagai Bapak Kedokteran, memperkenalkan konsep bahwa penyakit disebabkan oleh faktor alam, bukan kutukan dewa. Ia menulis Hippocratic Oath, yang masih digunakan oleh dokter modern sebagai kode etik kedokteran. Selain itu ada juga Galen yan mengembangkan ilmu anatomi dan fisiologi manusia sebagai makhluk eksperimen pada hewan.
+#### F. *Arsitektur dan Teknik Sipil*.
+#### Yunani kuno membangun kuil megah seperti Parthenon di Athena. Mereka mengembangkan teknik kolom doric, ionic, dan corinthian, yang masih digunakan dalam arsitektur modern. Teknik pembangunan saluran air dan sistem drainase memungkinkan kota kota Yunani berkembang pesat. 
 
 
 #### - Perkembangan sains dan agama pada masa Romawi include Eropa dan negara lain.
