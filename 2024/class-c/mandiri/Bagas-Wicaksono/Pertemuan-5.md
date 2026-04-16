@@ -10,7 +10,7 @@ Pada bagian *"Acknowledgments"* Ranganathan menjelaskan bahwa ide dari penyusuna
 1. Buku diperlakukan layaknya barang yang dilindungi, sehingga hanya segelintir orang yang dapat membaca buku
 2. Akses terhadap buku sangatlah terbatas
 3. Perpustakaan berorientasi pada koleksi, bukan kepada pemustaka
-4. Sistem layanan pemustaka tidak berjalan secara efektif
+4. Sistem layanan pemustaka tidak berjalan secara efektif[^1]
 
 Ranganathan menjelaskan jika kondisi seperti ini terus terjadi, maka akan dapat menghentikan fungsi sebenarnya dari perpustakaan terutama terkait fungsi pendidikan/edukasi. Perpustakaan yang seharusnya menjadi ruang terbuka bagi pembaca untuk menemukan pengetahuan/informasi baru, sebaliknya justru malah menjadi ruang tertutup karena koleksinya sulit diakses oleh pembaca di era tersebut. Dari sinilah lahir prinsip dasar mengenai 5 Hukum Perpustakaan sebagai fondasi yang sifatnya universal terkait dasar pengelolaan perpustakaan. Sehingga kemudian 5 Hukum ini dapat diimplementasikan, dan dikembangkan oleh perpustakaan di penjuru dunia.
 
@@ -19,13 +19,16 @@ Ranganathan menjelaskan jika kondisi seperti ini terus terjadi, maka akan dapat 
 Artinya: "Buku-buku diciptakan untuk digunakan". Hukum pertama ini mengkritik penggunaan buku pada era tersebut yang masih sangat terbatas dan sifatnya masih tertutup. Menurut Ranganathan hal tersebut dapat menghentikan fungsi buku yang sebenarnya. Pelestarian buku bukan hanya dengan cara disimpan, melainkan digunakan sebagaimana fungsi edukasinya. Pelestarian juga dapat dilakukan dengan cara terus mengembangkan apa yang tertulis di dalam buku melalui pemikiran para pembacanya.
 
 #### Hukum 2: *"Every Person His/Her Book"*
-Artinya: "Setiap orang mempunyai bukunya". maksudnya adalah setiap pembaca mempunyai kebutuhan informasi yang berbeda-beda,  namun walaupun seperti itu perpustakaan harus tetap mampu menyediakan kebutuhan koleksi para pembaca. Karena setiap orang berhak untuk mendapatkan pendidikan, pendidikan yang dimaksud adalah pengetahuan yang ada di dalam buku. Prinsip Hukum ke-2 Perpustakaan pada dasarnya ingin menciptakan layanan perpustakaan yang relevan dan tidak diskriminatif kepada para pembaca. 
+Artinya: "Setiap orang mempunyai bukunya". maksudnya adalah setiap pembaca mempunyai kebutuhan informasi yang berbeda-beda,  namun walaupun seperti itu perpustakaan harus tetap mampu menyediakan kebutuhan koleksi para pembaca. Karena setiap orang berhak untuk mendapatkan **pendidikan**, **pendidikan** yang dimaksud adalah pengetahuan yang ada di dalam buku. Prinsip Hukum ke-2 Perpustakaan pada dasarnya ingin menciptakan layanan perpustakaan yang relevan dan tidak diskriminatif kepada para pembaca. 
 
-#### Hukum 3:
+#### Hukum 3: *"Every Book It's Reader"*
+Artinya: "Setiap buku memiliki pembaca". Maksud dari Hukum ke-3 adalah perpustakaan harus mampu menyediakan buku yang tepat bagi para pembaca. Sekilas seperti dengan hukum ke-2 namun di Hukum ke-3 lebih menekankan kepada sistem **penataan koleksi/katalogisasi**. Koleksi pada perpustakaan harus disusun secara sistematis dan terstruktur agar memudahkan sistem temu kembali buku.
 
-#### Hukum 4:
+#### Hukum 4: *"Save The Time For The reader"*
+Artinya: "Hemat waktu untuk pembaca". maksud dari Hukum keempat ini berasal dari slogan yang terkenal di Amerika dan Inggris yaitu **"waktu adalah uang dan uang adalah waktu"**. Maksud dari hukum keempat ini adalah menekankan **efektivitas** dan **efisiensi** waktu yang digunakan oleh pembaca. Seorang pustakawan harus bisa mendesain perpustakaan agar alur pemustaka dapat berjalan secara cepat dan tepat agar waktu dapat digunakan secara efektif oleh pembaca. 
 
-#### Hukum 5:
+#### Hukum 5: *"A Library Is A Growing Organism"*
+
 
 ## Kesimpulan
 
