@@ -15,9 +15,12 @@ systemctl status firewalld
 ```
 firewalld-cmd –info-zone=work
 ```
+```
 firewalld-cmd –permanent –zone=work –remove-service={dhcpv6-client,ssh}
-``` 
+```
+```
 firewalld-cmd –reload
+```
 ```
 Firewalld-cmd –info-zone=work
 ```
@@ -26,12 +29,14 @@ Firewalld-cmd –info-zone=work
 ```
 firewalld-cmd –info-zone=dmz
 ```
+```
 firewalld-cmd –permanent –zone=dmz –remove-service=ssh
 ```
 
 ## konfigurasi zona external
 ```
 firewalld-cmd –info-zone=external
+```
 ```
 firewalld-cmd –permanent –zone=external –remove-service=ssh
 ```
@@ -40,39 +45,57 @@ firewalld-cmd –permanent –zone=external –remove-service=ssh
 ```
 firewalld-cmd –info-zone=internal
 ```
+```
 firewall-cmd –reload
-``` 
+```
+```
 firewall-cmd --info-zone=internal 
+```
 ```
 firewall-cmd --info-zone=home  
 ```
+```
 firewall-cmd --info-zone=trusted
+```
 ```
 firewall-cmd --info-zone=drop  
 ```
+```
 firewall-cmd --info-zone=block 
+```
 ```
 firewall-cmd --reload 
 ```
+```
 firewall-cmd --info-zone=public 
+```
 ```
 firewall-cmd --permanent --zone=public --remove-service=dhcpv6-client
 ```
+```
 firewall-cmd –reload
+```
 ```
 firewall-cmd --info-zone=public
 ```
+```
 firewall-cmd --info-zone=dmz
+```
 ```
 firewall-cmd --info-zone=external  
 ```
+```
 firewall-cmd --info-zone=home
+```
 ```
 firewall-cmd --info-zone=work  
 ```
+```
 firewall-cmd --info-zone=trusted
 ```
+```
 firewall-cmd --info-zone=drop
+```
 ```
 firewall-cmd --info-zone=block
 ```
@@ -81,21 +104,30 @@ firewall-cmd --info-zone=block
 ```
 lsmod | grep cramfs
 ```
+```
 lsmod | grep freefxs
+```
 ```
 lsmod | grep hfs
 ```
+```
 lsmod | grep hfsplus
+```
 ```
 lsmod | grep jffs2
 ```
+```
 lsmod | grep squashfs
+```
 ```
 lsmod | grep udf
 ```
+```
 lsmod | grep firewire-core
 ```
+```
 lsmod | grep usb-storage
+```
 ```
 lsmod | grep Bluetooth
 ```
