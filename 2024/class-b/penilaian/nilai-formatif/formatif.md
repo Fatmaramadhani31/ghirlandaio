@@ -1,0 +1,86 @@
+| Nama                      | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   | 10  | 11  | 12  | Kehadiran | Total |
+| ------------------------- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | ----- |
+| Dechri Vanesa Mecca       | 0   | 0   | 0   | 0   | 99  | 80  | 0   | 0   | 20  | 0   | 0   | 0   | 10        | 26.58 |
+| Muhammad Apdal            | 0   | 0   | 0   | 0   | 99  | 99  | 0   | 0   | 20  | 0   | 0   | 0   | 10        | 28.17 |
+| Khalifia Inayah           | 0   | 0   | 0   | 0   | 99  | 50  | 0   | 0   | 20  | 80  | 0   | 0   | 10        | 30.75 |
+| Nazwa prina al atsilah    | 0   | 0   | 30  | 0   | 99  | 99  | 0   | 99  | 50  | 0   | 80  | 0   | 10        | 48.08 |
+| Shevaya Rubyfirlie        | 0   | 0   | 0   | 0   | 50  | 50  | 0   | 0   | 50  | 0   | 0   | 0   | 10        | 22.50 |
+| Adinda Khodijah           | 0   | 0   | 30  | 0   | 50  | 99  | 0   | 0   | 50  | 0   | 0   | 0   | 10        | 29.08 |
+| Siti Nasuhah              | 0   | 0   | 30  | 0   | 50  | 50  | 0   | 0   | 20  | 70  | 0   | 0   | 10        | 28.33 |
+| Fathi Rakha Herlambang    | 99  | 99  | 99  | 99  | 99  | 99  | 99  | 99  | 99  | 99  | 99  | 99  | 10        | 99.00 |
+| Silvi Nur Aini            | 0   | 0   | 0   | 0   | 99  | 99  | 0   | 0   | 50  | 0   | 0   | 0   | 10        | 30.67 |
+| Sayyida Nafisa Aulia      | 0   | 0   | 0   | 0   | 99  | 99  | 0   | 0   | 50  | 0   | 0   | 0   | 10        | 30.67 |
+| Tiara Fadilatun Nisa      | 0   | 0   | 0   | 0   | 50  | 50  | 0   | 0   | 75  | 0   | 0   | 0   | 10        | 24.58 |
+| Cikal Putri Awalia        | 99  | 99  | 99  | 99  | 99  | 99  | 99  | 99  | 99  | 99  | 99  | 99  | 10        | 99.00 |
+| Nabila Nazwa              | 0   | 0   | 0   | 0   | 99  | 50  | 0   | 0   | 50  | 0   | 80  | 0   | 10        | 33.25 |
+| Ira Khairina              | 0   | 0   | 0   | 0   | 99  | 99  | 0   | 99  | 20  | 0   | 50  | 0   | 10        | 40.58 |
+| Nuha Ramadhani            | 0   | 0   | 0   | 0   | 99  | 50  | 0   | 0   | 10  | 20  | 0   | 0   | 10        | 24.92 |
+| Marsha Dwi Della          | 0   | 0   | 0   | 0   | 50  | 50  | 0   | 0   | 50  | 0   | 0   | 0   | 10        | 22.50 |
+| Zihan Nuraeni             | 0   | 0   | 0   | 0   | 99  | 99  | 0   | 99  | 20  | 0   | 0   | 0   | 10        | 36.42 |
+| Nicky Puji Rahayu         | 0   | 0   | 0   | 0   | 80  | 99  | 0   | 0   | 20  | 90  | 0   | 0   | 10        | 34.08 |
+| Rizki Fazil               | 0   | 0   | 0   | 0   | 99  | 99  | 0   | 0   | 50  | 0   | 0   | 0   | 10        | 30.67 |
+| Muhammad Ridho Nur Islam  | 0   | 0   | 0   | 0   | 99  | 99  | 0   | 75  | 50  | 70  | 0   | 0   | 10        | 42.75 |
+| Ahmad Faaza Fauzan Adzima | 0   | 0   | 0   | 0   | 99  | 99  | 0   | 0   | 50  | 0   | 50  | 0   | 10        | 34.83 |
+| Nur Ahdiayani             | 0   | 0   | 30  | 0   | 99  | 99  | 0   | 0   | 50  | 0   | 50  | 0   | 10        | 37.33 |
+| Ananda Dwi Aryani         | 0   | 0   | 30  | 0   | 99  | 99  | 0   | 0   | 20  | 0   | 0   | 0   | 10        | 30.67 |
+| Mutia Zakiyyah            | 0   | 0   | 0   | 0   | 80  | 80  | 0   | 0   | 50  | 90  | 0   | 0   | 10        | 35.00 |
+| Naila Nur Luna            | 0   | 0   | 0   | 0   | 50  | 50  | 0   | 0   | 20  | 0   | 0   | 0   | 10        | 20.00 |
+| Rihadatul Aisy Avicena    | 0   | 0   | 0   | 0   | 99  | 50  | 0   | 0   | 20  | 0   | 0   | 0   | 10        | 24.08 |
+| Fathi Muhammad Rafi       | 30  | 0   | 0   | 0   | 99  | 99  | 0   | 99  | 20  | 0   | 0   | 0   | 10        | 38.92 |
+| Munazi Julita P           | 0   | 0   | 0   | 0   | 99  | 99  | 0   | 99  | 50  | 0   | 0   | 0   | 10        | 38.92 |
+| Regard M R                | 0   | 0   | 0   | 0   | 99  | 99  | 0   | 0   | 50  | 0   | 0   | 0   | 10        | 30.67 |
+| Muhammad Fauzan Azhiimi   | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 20  | 0   | 0   | 0   | 10        | 11.67 |
+| Najwa Azzahra             | 0   | 0   | 0   | 0   | 99  | 99  | 0   | 0   | 50  | 0   | 0   | 0   | 10        | 30.67 |
+| Shofi Nurjanah            | 0   | 0   | 0   | 0   | 99  | 99  | 0   | 0   | 99  | 0   | 0   | 0   | 10        | 34.75 |
+| Kayla shita sabila        | 0   | 0   | 0   | 0   | 99  | 99  | 0   | 0   | 20  | 0   | 80  | 0   | 10        | 34.83 |
+| Artika                    | 0   | 0   | 0   | 0   | 99  | 50  | 0   | 0   | 50  | 0   | 0   | 0   | 10        | 26.58 |
+| Fauziyyah Nurzahra        | 0   | 0   | 0   | 0   | 50  | 50  | 0   | 99  | 50  | 90  | 0   | 0   | 10        | 38.25 |
+| Hana Zada Videla          | 0   | 0   | 0   | 0   | 99  | 50  | 0   | 0   | 20  | 0   | 0   | 0   | 10        | 24.08 |
+| Kaafi Alfath Syahri       | 0   | 0   | 0   | 0   | 50  | 50  | 0   | 0   | 50  | 0   | 0   | 0   | 10        | 22.50 |
+| Echa Junika Alawiyah      | 0   | 0   | 0   | 0   | 99  | 99  | 0   | 99  | 50  | 80  | 0   | 0   | 10        | 45.58 |
+
+# Rasionale
+
+penugasan 1
+- nilai 0 = penggunaan AI lebih dari 20%
+- nilai 30 = berhasil menjawab pertanyaan
+
+penugasan 2 
+- nilai 0 = presentator tidak melaukan presentasi akibat miscommunication penanggung jawab kelas
+
+penugasan 3
+- nilai 0 = penggunaan AI lebih dari 20%
+- nilai 30 = berhasil menjawab pertanyaan
+
+penugasan 4
+- nilai 0 = penggunaan AI lebih dari 20%
+
+penugasan 5
+- nilai 50 = dokumentasi foto kurang langkah instalasi
+- nilai 0 = tidak mengumpulkan sama sekali
+
+penugasan 6
+- nilai 50 = dokumentasi foto kurang langkah instalasi
+- nilai 0 = tidak mengumpulkan sama sekali
+
+penugasan 7
+- nilai 0 = presentator telat mengumpulkan materi presentasi
+
+penugasan 8 
+- inayah: tidak ada file tugas, history commit atas nama iskandar
+- tidak sesuai ketentuan minimal 2 cast masing masing cast 1 audio
+
+penugasan 9
+- tidak sesuai dengan ketentuan 2 cast masing masing cast 1 audio
+- tidak sesuai dengan ketentuan mencantumkan file dokumentasi
+
+penugasan 10 
+- Tidak sesuai dengan ketentuan 2 cast masing masing cast 1 audio
+- tidak sesuai dengan ketentuan mencantumkan file dokumentasi
+
+penugasan 11 
+- pengumpulan menggunakan lebih dari 1 file cast, audio mengikuti file cast, dan dokumentasi
+- tidak sesuai dengan ketentuan mencantumkan file dokumentasi
+
+penugasan 12 
+- database harus terpisah dengan slims (dan tidak ada yang berhasil)
